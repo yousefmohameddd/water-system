@@ -1,0 +1,13 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY e1 IS
+port(X:in STD_LOGIC;
+	  Y,led : OUT STD_LOGIC);
+END e1;
+
+ARCHITECTURE a1 of e1 IS
+BEGIN
+	Y<=X;
+	led <= X;
+END a1;
