@@ -5,7 +5,7 @@
 This system was created in VHDL and tested using an Altera DE10 Lite board. Other boards can be used. It is designed to efficiently water plants based on user-defined parameters and automatically dispense fertilizer using an Arduino connected to a motor.
 after the watering process is complete.
 
-## How to use
+## How to Use
 
 Change the signal called "seconds" to control the amount of time the plant is watered. The only input is a switch that acts as a power on/off button for the entire system.\
 Each of the outputs must be connected as follows:
