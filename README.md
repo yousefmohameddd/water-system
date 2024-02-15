@@ -1,3 +1,5 @@
+# Plant Care System
+
 ## Description
 
 This system was created in VHDL and tested using an Altera DE10 Lite board. Other boards can be used. It is designed to efficiently water plants based on user-defined parameters and automatically dispense fertilizer using an Arduino connected to a motor.
